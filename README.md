@@ -10,6 +10,12 @@ Belajar Dasar Pemrograman Web <br>
 Disusun oleh: Dicoding Indonesia <br>
 Level: Dasar - Pemula
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/95717485/188485715-3df87399-273d-4760-8c09-f67a7c908e22.png" alt="Dicoding">
+</div>
+
+<br>
+
 Kelas ini membahas tuntas dasar HTML, CSS dan JavaScript sebagai tiga fondasi pembuatan website. Fondasi tersebut diperlukan untuk Anda yang ingin mengembangkan kemampuan pengembangan website ke tahap yang lebih lanjut. Disusun dan diverifikasi oleh tim expert Dicoding, materi yang disajikan terstruktur dan komprehensif.
 
 Materi yang dipelajari:
@@ -30,9 +36,3 @@ Evaluasi pembelajaran:
 - Submission (proyek akhir) berupa sebuah halaman website menggunakan teknik semantic HTML dan layouting
 
 Total jam yang dibutuhkan untuk menyelesaikan kelas ini, mulai dari persiapan kelas sampai evaluasi belajar, adalah 55 jam.
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/95717485/188485715-3df87399-273d-4760-8c09-f67a7c908e22.png" alt="Dicoding">
-</div>
